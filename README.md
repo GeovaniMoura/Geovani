@@ -1,6 +1,6 @@
 # Sobre
 <div align="justify">
-  Sou Estudante de Desenvolvimento Web Full-Stack na Trybe, tenho muita curiosidade em aprender diferentes Linguagens de programação, fiz um curso livre      sobre Portugol e isso despertou uma vontade imensa de conhecer esse universo. Vou continuar realizando projetos pessoais e buscando sempre evoluir ainda    mais o trabalho em equipe.
+  Sou Desenvolvedor Web Full-Stack formado pela Trybe, atualmente estou trabalhando com react native e tenho muita curiosidade em aprender diferentes Linguagens de programação, fiz um curso livre sobre Portugol e isso despertou uma vontade imensa de conhecer esse universo. Vou continuar realizando projetos pessoais e buscando sempre evoluir ainda mais o trabalho em equipe.
 </div>
 
 ## Minhas Redes Sociais
