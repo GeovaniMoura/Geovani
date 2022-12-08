@@ -1,6 +1,6 @@
 # Sobre
 <div align="justify">
-  Sou Desenvolvedor Web Full-Stack formado pela Trybe, atualmente estou trabalhando com react native e tenho muita curiosidade em aprender diferentes Linguagens de programação, fiz um curso livre sobre Portugol e isso despertou uma vontade imensa de conhecer esse universo. Vou continuar realizando projetos pessoais e buscando sempre evoluir ainda mais o trabalho em equipe.
+  I'm a full-stack web developer, currently working with Typescript, React Native, Realm, NestJS, Styled Components, MySQL.
 </div>
 
 ## Minhas Redes Sociais
