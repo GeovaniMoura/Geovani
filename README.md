@@ -1,6 +1,6 @@
 # Sobre
 <div align="justify">
-  I'm a full-stack web developer, currently working with Typescript, React Native, Realm, NestJS, Styled Components, MySQL.
+  I'm a full-stack developer, currently working with Typescript, React Native, Realm, NestJS, Styled Components, MySQL.
 </div>
 
 ## Minhas Redes Sociais
